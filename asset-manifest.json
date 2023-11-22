@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hidayat/static/css/main.5f005126.css",
+    "main.js": "/Hidayat/static/js/main.d63a8045.js",
+    "static/media/1.jpeg": "/Hidayat/static/media/1.2ab522c30187144fcafd.jpeg",
+    "static/media/2.jpeg": "/Hidayat/static/media/2.0cc48a6b654b08fe32c0.jpeg",
+    "static/media/g11.jpeg": "/Hidayat/static/media/g11.0d93e959f8d2146d8011.jpeg",
+    "static/media/3.jpeg": "/Hidayat/static/media/3.f97284a118bf26e014ab.jpeg",
+    "static/media/g1.jpeg": "/Hidayat/static/media/g1.86aa87626ffa295738bb.jpeg",
+    "static/media/g14.jpeg": "/Hidayat/static/media/g14.7e3761f85745d5153d14.jpeg",
+    "static/media/g5.jpg": "/Hidayat/static/media/g5.3b3334007b2bd6e2c9fd.jpg",
+    "index.html": "/Hidayat/index.html",
+    "main.5f005126.css.map": "/Hidayat/static/css/main.5f005126.css.map",
+    "main.d63a8045.js.map": "/Hidayat/static/js/main.d63a8045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f005126.css",
+    "static/js/main.d63a8045.js"
+  ]
+}
